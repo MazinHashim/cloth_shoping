@@ -1,0 +1,33 @@
+body{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: #000000
+        color:#d90f0f;
+        font-color:#d90f0f;
+    
+}
+
+#main > :first-child{
+	margin-top: 30px;
+}
+
+
+.lll{
+	padding: 900px
+}
+.llll{
+	padding: 20px;
+	margin:20px;
+/*height: 50px;
+	width: 50px;*/
+}
+
+.ba{
+    background-color: #000000
+    
+}
+.ar1{
+    direction: rtl;
+    text-decoration: rtl;
+}
+
